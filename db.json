@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Edited",
+      "email": "ebrahm2@wunderground.com",
+      "username": "ebrahm2",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Shelby Feaver",
+      "email": "sfeaver3@dion.ne.jp",
+      "city": "Female",
+      "username": "sfeaver3",
+      "website": "Cardguard"
+    },
+    {
+      "id": 5,
+      "name": "Anthe Ivanishev",
+      "email": "aivanishev4@va.gov",
+      "city": "Female",
+      "username": "aivanishev4",
+      "website": "Bitchip"
+    },
+    {
+      "id": 6,
+      "name": "Shermy Clinton",
+      "email": "sclinton5@abc.net.au",
+      "city": "Male",
+      "username": "sclinton5",
+      "website": "Fixflex"
+    },
+    {
+      "id": 7,
+      "name": "Alma Romaint",
+      "email": "aromaint6@sciencedirect.com",
+      "city": "Male",
+      "username": "aromaint6",
+      "website": "Keylex"
+    },
+    {
+      "name": "sagga",
+      "email": "iam.shaikh1995@gmail.com",
+      "username": "aks",
+      "id": 8
+    }
+  ]
+}
